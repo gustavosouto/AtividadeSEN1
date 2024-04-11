@@ -16,3 +16,5 @@ void loop() // Trata-se de uma função que tem o propósito de repetir
   digitalWrite(ledPin, LOW);  // Serve para definir o pino ledPin como LOW, ou seja, isto importa no LED estar desligado.
   delay(5000);                // Consiste no tempo de espera antes de dar seguimento para próxima linha. Neste caso, o tempo de espera é de 5000 milisegundos (5s)
 }
+
+
